@@ -1,0 +1,18 @@
+{
+  "players": [
+    {
+      "player": "Hackbook",
+      "score": 2,
+      "joindate": 1471300167801,
+      "lastactive": 1471637706554,
+      "active": true
+    },
+    {
+      "player": "DaPhoton",
+      "score": 11,
+      "joindate": 1471300169900,
+      "lastactive": 1471637696910,
+      "active": true
+    }
+  ]
+}

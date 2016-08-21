@@ -1,0 +1,22 @@
+[
+  {
+    "question":"Grand Central Terminal, Park Avenue, New York is the world's...",
+    "answers":["largest railway station", "highest railway station", "longest railway station", "none of the above"],
+    "correct":0
+  },
+  {
+    "question":"Entomology is the science that studies...",
+    "answers":["Behavior of human beings", "Insects", "The origin and history of technical and scientific terms", "The formation of rocks"],
+    "correct":1
+  },
+  {
+    "question":"For which of the following disciplines is Nobel Prize awarded?",
+    "answers":["Physics and Chemistry", "Physiology or Medicine", "Literature, Peace and Economics", "All of the Above"],
+    "correct":3
+  },
+  {
+    "question":"Hitler party which came into power in 1933 is known as",
+    "answers":["Labour Party", "Nazi Party", "Ku-Klux-Klan", "Democratic Party"],
+    "correct":1
+  }
+]

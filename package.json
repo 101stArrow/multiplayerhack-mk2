@@ -1,0 +1,27 @@
+{
+  "name": "multiplayerhack-mk2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/101stArrow/multiplayerhack-mk2.git"
+  },
+  "author": "HackWimbledon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/101stArrow/multiplayerhack-mk2/issues"
+  },
+  "homepage": "https://github.com/101stArrow/multiplayerhack-mk2#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonfile": "^2.3.1",
+    "lodash": "^4.15.0",
+    "lowdb": "^0.13.1",
+    "mqtt": "^1.13.0"
+  }
+}
