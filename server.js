@@ -24,6 +24,7 @@ client.on('connect', function() {
 });
 
 client.on('message', function(topic, message) {
+    console.log(topic + ': ' + message)
     if (topic == "players") {
         if (checkPlayer(message)) {
             console.log("Error: Player exists")
@@ -49,7 +50,7 @@ client.on('message', function(topic, message) {
                 }).assign({
                     lastactive: Date.now()
                 }).value()
-                // console.log(answers)
+                console.log(answers)
 
         } else {
             console.log("Cannot find " + user)

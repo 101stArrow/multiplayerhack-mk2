@@ -1,17 +1,31 @@
 {
   "players": [
     {
-      "player": "Hackbook",
-      "score": 2,
-      "joindate": 1471300167801,
-      "lastactive": 1471637706554,
+      "player": "Arrow",
+      "score": 1,
+      "joindate": 1476549472333,
+      "lastactive": 1476550015090,
       "active": true
     },
     {
-      "player": "DaPhoton",
-      "score": 11,
-      "joindate": 1471300169900,
-      "lastactive": 1471637696910,
+      "player": "EricIsADick",
+      "score": 0,
+      "joindate": 1476550105786,
+      "lastactive": 1476550105786,
+      "active": true
+    },
+    {
+      "player": "EricIsADick",
+      "score": 0,
+      "joindate": 1476550117805,
+      "lastactive": 1476550117806,
+      "active": true
+    },
+    {
+      "player": "Dj",
+      "score": 0,
+      "joindate": 1476550158247,
+      "lastactive": 1476550172213,
       "active": true
     }
   ]
